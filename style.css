@@ -1,0 +1,42 @@
+.row{
+    background-color:rgb(244, 248, 253); 
+    padding: 50px 0;
+}
+
+.flex{
+    display: inline-block; 
+    background-color: white;
+     padding: 43px ;
+     font-size: 30px;
+     text-align:center;
+     border-radius: 5px;
+}
+
+.header{
+    font-size: 15px;
+   text-align:center;
+}
+
+.normal{
+    font-style: normal;
+}
+.oblique{
+    font-style: oblique;
+}
+.italic{
+    font-style: italic;
+}
+
+.sans-serif{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.serif{
+    font-family:'Times New Roman', Times, serif;
+}
+
+.font{
+    font-weight: bold;
+}
+.normal{
+    font-weight: normal;
+}
